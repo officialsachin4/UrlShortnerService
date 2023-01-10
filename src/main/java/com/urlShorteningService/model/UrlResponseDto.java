@@ -1,4 +1,4 @@
-package com.stackfortech.urlShorteningService.model;
+package com.urlShorteningService.model;
 
 import java.time.LocalDateTime;
 

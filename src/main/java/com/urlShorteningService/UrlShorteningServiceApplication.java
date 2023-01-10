@@ -1,4 +1,4 @@
-package com.stackfortech.urlShorteningService;
+package com.urlShorteningService;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

@@ -1,7 +1,7 @@
-package com.stackfortech.urlShorteningService.service;
+package com.urlShorteningService.service;
 
-import com.stackfortech.urlShorteningService.model.Url;
-import com.stackfortech.urlShorteningService.model.UrlDto;
+import com.urlShorteningService.model.Url;
+import com.urlShorteningService.model.UrlDto;
 import org.springframework.stereotype.Service;
 
 @Service

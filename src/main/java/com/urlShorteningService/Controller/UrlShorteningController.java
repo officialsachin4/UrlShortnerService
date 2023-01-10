@@ -1,10 +1,10 @@
-package com.stackfortech.urlShorteningService.Controller;
+package com.urlShorteningService.Controller;
 
-import com.stackfortech.urlShorteningService.model.Url;
-import com.stackfortech.urlShorteningService.model.UrlDto;
-import com.stackfortech.urlShorteningService.model.UrlErrorResponseDto;
-import com.stackfortech.urlShorteningService.model.UrlResponseDto;
-import com.stackfortech.urlShorteningService.service.UrlService;
+import com.urlShorteningService.model.Url;
+import com.urlShorteningService.model.UrlDto;
+import com.urlShorteningService.model.UrlErrorResponseDto;
+import com.urlShorteningService.model.UrlResponseDto;
+import com.urlShorteningService.service.UrlService;
 import org.apache.commons.lang3.StringUtils;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.HttpStatus;

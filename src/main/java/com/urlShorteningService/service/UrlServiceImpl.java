@@ -1,9 +1,9 @@
-package com.stackfortech.urlShorteningService.service;
+package com.urlShorteningService.service;
 
 import com.google.common.hash.Hashing;
-import com.stackfortech.urlShorteningService.model.Url;
-import com.stackfortech.urlShorteningService.model.UrlDto;
-import com.stackfortech.urlShorteningService.repository.UrlRepository;
+import com.urlShorteningService.model.Url;
+import com.urlShorteningService.model.UrlDto;
+import com.urlShorteningService.repository.UrlRepository;
 import org.apache.commons.lang3.StringUtils;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
@@ -11,7 +11,6 @@ import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Component;
 
 import java.nio.charset.StandardCharsets;
-import java.time.LocalDate;
 import java.time.LocalDateTime;
 
 @Component

@@ -1,6 +1,6 @@
-package com.stackfortech.urlShorteningService.repository;
+package com.urlShorteningService.repository;
 
-import com.stackfortech.urlShorteningService.model.Url;
+import com.urlShorteningService.model.Url;
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.stereotype.Repository;
 
